@@ -1,10 +1,10 @@
 # Best Available Ampersands
-Contributors: benkulbertis
-Donate Link: http://codezroz.com/
-Tags: ampersands
-Requires at least: 2.0.2
-Tested up to: 3.0
-Stable tag: trunk
+Contributors: benkulbertis  
+Donate Link: http://codezroz.com/  
+Tags: ampersands  
+Requires at least: 2.0.2  
+Tested up to: 3.0  
+Stable tag: trunk  
 
 Automatically replaces all ampersands in post titles and content with ones styled using
 Dan Cederholm's "Use the Best Available Ampersand" technique.
