@@ -4,7 +4,7 @@ Plugin Name: Best Available Ampersands
 Plugin URI: http://codezroz.com/downloads/wordpress-plugins/best-available-ampersands/
 Description: Automatically replaces all ampersands in post titles and content with ones styled using Dan Cederholm's "<a href="http://simplebits.com/notebook/2008/08/14/ampersands-2/">Use the Best Available Ampersand</a>" technique.
 Author: Ben Kulbertis
-Version: 1.0
+Version: 0.1
 Author URI: http://codezroz.com/
 */
 
